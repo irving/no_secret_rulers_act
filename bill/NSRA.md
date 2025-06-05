@@ -43,13 +43,13 @@ Failure to report, when action is taken in the official’s name during the peri
 
 ## If the unauthorized exercise of authority or concealment results in **personal, financial, political, or organizational gain**, or is used to obstruct justice, suppress investigations, or alter policy outcomes:
 
-* ## **Maximum penalty** by 10 years imprisonment, 
+* **Maximum penalty** by 10 years imprisonment, 
 
-* ## **Forfeiture** of any gains obtained, 
+* **Forfeiture** of any gains obtained, 
 
-* ## **Permanent disqualification** from public office, and 
+* **Permanent disqualification** from public office, and 
 
-* ## **Mandatory restitution** to the United States or harmed parties.
+* **Mandatory restitution** to the United States or harmed parties.
 
 ---
 
