@@ -41,7 +41,7 @@ Failure to report, when action is taken in the official’s name during the peri
 
 ## **Section 4. Aggravated Circumstances and Personal Gain**
 
-## If the unauthorized exercise of authority or concealment results in **personal, financial, political, or organizational gain**, or is used to obstruct justice, suppress investigations, or alter policy outcomes:
+If the unauthorized exercise of authority or concealment results in **personal, financial, political, or organizational gain**, or is used to obstruct justice, suppress investigations, or alter policy outcomes:
 
 * **Maximum penalty** by 10 years imprisonment, 
 
