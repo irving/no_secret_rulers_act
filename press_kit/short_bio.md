@@ -1,0 +1,1 @@
+David Vandervort is a technologist and writer with a background in software engineering. He writes about science, technology, and history. 
