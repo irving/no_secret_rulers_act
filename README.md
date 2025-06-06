@@ -57,6 +57,12 @@ We are particularly interested in:
 
 ---
 
+## Editor's Note
+
+Most of the text in this repository was written by ChatGPT. There has been some human editing, some things getting more than others. The legislation was the result of several editing sessions, as I thought about new issues to be incorporated several times. Anyway, this is not a final product. It's just a starting point.
+
+---
+
 ## Contact
 
 For questions or collaboration inquiries, please open an issue or contact the project maintainer via [INSERT CONTACT METHOD].
