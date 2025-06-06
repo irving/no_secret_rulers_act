@@ -16,7 +16,7 @@ This repository contains the text of the proposed legislation as well as support
 - `collaterals/`  
   Includes items such as talking points, press kit, and other useful material. Intended for use by supporters, spokespersons, or legislators presenting the bill to various audiences.
 
-- `milestones/` *(TBD)*  
+- `milestones` *(TBD)*  
   Will include a timeline of progress, legislative sponsors, endorsements, and public engagement goals.
 
 ---
@@ -36,24 +36,8 @@ The No Secret Rulers Act addresses a critical gap in democratic governance: the 
 
 - **Read and Comment on the Bill**: We welcome feedback from legal experts, activists, and engaged citizens. Use Issues or Pull Requests to propose edits or raise concerns.
 - **Share the Press Kit**: Materials in the `press-kit/` folder are designed for wide distribution. Adapt them as needed for local outreach.
-- **Use the Talking Points**: If you're helping to promote the NSRA, the `talking-points/` folder is a great place to start.
-- **Contribute Milestones**: If you're tracking events or pushing legislative steps, feel free to propose updates to the `milestones/` folder once created.
-
----
-
-## How to Contribute
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -am 'Add feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a pull request
-
-We are particularly interested in:
-- Legal review and suggestions
-- State-level legislative adaptations
-- Outreach and awareness campaign materials
-- Policy endorsements and coalition-building resources
+- **Use the Talking Points**: If you're helping to promote the NSRA, the `talking-points` file is a great place to start. (Note: Coming soon!)
+- **Contribute Milestones**: If you're tracking events or pushing legislative steps, feel free to propose updates to the `milestones` file once created.
 
 ---
 
@@ -65,7 +49,7 @@ Most of the text in this repository was written by ChatGPT. There has been some 
 
 ## Contact
 
-For questions or collaboration inquiries, please open an issue or contact the project maintainer via [INSERT CONTACT METHOD].
+For questions or collaboration inquiries, please open an issue or contact the project maintainer at no.secret.rulers@pm.me.
 
 ---
 
