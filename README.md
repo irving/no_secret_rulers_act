@@ -6,17 +6,21 @@
 
 This repository contains the text of the proposed legislation as well as supporting materials intended to assist with public education, press outreach, and legislative advocacy.
 
+## Proposed Text
+
+### [No Secret Rulers Act](https://github.com/irving/no_secret_rulers_act/tree/main/bill/NSRA.md)
+
 ---
 
 ## Contents
 
 - [bill](https://github.com/irving/no_secret_rulers_act/tree/main/bill)  
-  Contains the proposed legislative text of the No Secret Rulers Act, formatted for clarity and version tracking.
+  Contains the proposed legislative text of the No Secret Rulers Act, formatted for clarity and version tracking. Legal explanation and discussion should also go here.
 
-- [collaterals](https://github.com/irving/no_secret_rulers_act/tree/main/colllaterals)  
+- [collaterals](https://github.com/irving/no_secret_rulers_act/tree/main/collaterals)  
   Includes items such as talking points, press kit, and other useful material. Intended for use by supporters, spokespersons, or legislators presenting the bill to various audiences.
 
-- [press kit](https://github.com/irving/no_secret_rulers_act/tree/main/bill)
+- [press kit](https://github.com/irving/no_secret_rulers_act/tree/main/press_kit)
   Draft backgrounder, possible press releases, etc. 
 
 - milestones *(TBD)*  
