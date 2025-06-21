@@ -32,7 +32,7 @@ This repository contains the text of the proposed legislation as well as support
 
 The No Secret Rulers Act addresses a critical gap in democratic governance: the lack of legal safeguards against undisclosed power transfers within elected offices. By making it a legal requirement to disclose incapacitation and prohibiting unauthorized decision-making, this act aims to:
 
-- Reinforce the public�s right to know who is making official decisions.
+- Reinforce the public's right to know who is making official decisions.
 - Prevent informal or covert rule by unelected proxies.
 - Establish clear reporting and disclosure mechanisms.
 - Create penalties for covering up incapacitation or usurping authority.
