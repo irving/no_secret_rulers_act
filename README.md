@@ -10,13 +10,16 @@ This repository contains the text of the proposed legislation as well as support
 
 ## Contents
 
-- `bill/`  
+- [bill](https://github.com/irving/no_secret_rulers_act/tree/main/bill)  
   Contains the proposed legislative text of the No Secret Rulers Act, formatted for clarity and version tracking.
 
-- `collaterals/`  
+- [collaterals](https://github.com/irving/no_secret_rulers_act/tree/main/colllaterals)  
   Includes items such as talking points, press kit, and other useful material. Intended for use by supporters, spokespersons, or legislators presenting the bill to various audiences.
 
-- `milestones` *(TBD)*  
+- [press kit](https://github.com/irving/no_secret_rulers_act/tree/main/bill)
+  Draft backgrounder, possible press releases, etc. 
+
+- milestones *(TBD)*  
   Will include a timeline of progress, legislative sponsors, endorsements, and public engagement goals.
 
 ---
@@ -25,7 +28,7 @@ This repository contains the text of the proposed legislation as well as support
 
 The No Secret Rulers Act addresses a critical gap in democratic governance: the lack of legal safeguards against undisclosed power transfers within elected offices. By making it a legal requirement to disclose incapacitation and prohibiting unauthorized decision-making, this act aims to:
 
-- Reinforce the public’s right to know who is making official decisions.
+- Reinforce the publicï¿½s right to know who is making official decisions.
 - Prevent informal or covert rule by unelected proxies.
 - Establish clear reporting and disclosure mechanisms.
 - Create penalties for covering up incapacitation or usurping authority.
@@ -37,13 +40,13 @@ The No Secret Rulers Act addresses a critical gap in democratic governance: the 
 - **Read and Comment on the Bill**: We welcome feedback from legal experts, activists, and engaged citizens. Use Issues or Pull Requests to propose edits or raise concerns.
 - **Share the Press Kit**: Materials in the `press-kit/` folder are designed for wide distribution. Adapt them as needed for local outreach.
 - **Use the Talking Points**: If you're helping to promote the NSRA, the `talking-points` file is a great place to start. (Note: Coming soon!)
-- **Contribute Milestones**: If you're tracking events or pushing legislative steps, feel free to propose updates to the `milestones` file once created.
+- **Contribute Milestones**: If you're tracking events or pushing legislative steps, feel free to propose updates to the `milestones` file once created. Or create it! Whatever works.
 
 ---
 
 ## Editor's Note
 
-Most of the text in this repository was written by ChatGPT. There has been some human editing, some things getting more than others. The legislation was the result of several editing sessions, as I thought about new issues to be incorporated several times. Anyway, this is not a final product. It's just a starting point.
+Most of the text in this repository was written by ChatGPT. There has been some human editing. The legislation was the result of several editing sessions, as I thought about new issues to be incorporated. Anyway, this is not a final product. It's just a starting point.
 
 ---
 
