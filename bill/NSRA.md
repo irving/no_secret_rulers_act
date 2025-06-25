@@ -1,178 +1,198 @@
 # **No Secret Rulers Act (NSRA)**
 
-## **Section 1. Purpose**
+---
 
-The purpose of this Act is to preserve the integrity of democratic governance and constitutional accountability by criminalizing the unauthorized assumption or concealment of governmental authority during periods of incapacitation or misrepresentation by public officials.
+## **Preamble**
+
+In affirmation of the bipartisan and nonpartisan values that undergird our constitutional system,
+
+Whereas the Constitution of the United States vests the powers of government in the hands of elected and duly appointed officials, accountable to the people and constrained by law;
+
+Whereas the legitimacy of public authority derives not from secrecy or convenience, but from lawful processes of election, appointment, and transparent delegation;
+
+Whereas history has shown that during periods of illness, incapacitation, or cognitive decline, the powers of office have, on occasion, been exercised by unelected individuals acting without legal authority or public disclosure;
+
+Whereas such exercises of power—however well-intentioned—undermine the foundational principle that government must operate with the consent of the governed;
+
+Whereas no privilege of confidentiality, secrecy, or internal deliberation may be used to conceal the fact that public power is being wielded by those who have not been authorized by law or by the people;
+
+Whereas the public has a right to know whether those who appear to govern in their name are, in fact, capable of doing so, and whether constitutional processes for transfer or delegation of authority have been followed;
+
+Therefore, be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, that this Act may be cited as the **No Secret Rulers Act**, and that it shall establish clear procedures, safeguards, and penalties to ensure that no individual shall exercise the powers of government in secret, in the name of another, or outside lawful delegation, especially when an official has become incapacitated, unavailable, or otherwise unable to perform the duties of office.
 
 ---
 
-## **Section 2. Definitions**
+## **Title I: General Provisions**
 
-**(a)** *Public Official* means any person holding a position of authority in the Executive, Legislative, or Judicial branch of the United States Government, including appointed and elected officials.
+### Section 101. Short Title  
+This Act may be cited as the *No Secret Rulers Act*.
 
-**(b)** *Authorized Delegate* means a person who has been formally and lawfully delegated the power to act on behalf of a public official, in accordance with statute, regulation, or written authorization.
+### Section 102. Purpose  
+To preserve democratic governance and constitutional accountability by criminalizing the unauthorized assumption or concealment of governmental authority, especially during periods of incapacitation or misrepresentation by public officials.
 
-**(c)** *Unauthorized Exercise of Public Authority* means knowingly issuing orders, making policy decisions, signing documents, or otherwise exercising official powers under the name, office, or authority of a public official without:
+### Section 103. Definitions  
 
-* lawful delegation;
-
-* consent of the official (if capacitated); or
-
-* disclosure of the official’s incapacity or absence, when known.
-
-**(d)** *Concealment of Incapacity* means knowingly failing to disclose material facts concerning the incapacity, unavailability, or unfitness of a public official to relevant authorities or the public, with the intent to preserve the appearance of lawful authority.
+See Appendix A.
 
 ---
 
-## **Section 3. Offenses**
+## **Title II: Investigative Access and Conditional Override of Privilege**
 
-**(a)** *Unauthorized Exercise of Authority*  
- It is unlawful for any person to knowingly exercise, or cause to be exercised, the powers or duties of a public official without lawful delegation or consent, or during periods of known incapacity.
+### Section 201. Conditional Override of Privilege  
+No legal privilege shall bar lawful investigation into the incapacity of a public official or the unauthorized exercise of governmental authority where there is a **Compelling Public Interest**. A judicial order may compel access to otherwise privileged materials provided:
 
-**(b)** *Concealment of Incapacity*  
- It is unlawful to knowingly conceal the incapacity, unavailability, or unfitness of a public official for the purpose of maintaining the appearance of lawful authority.
-
-**(c)** *Mandatory Reporting Requirement*  
- Any individual with direct knowledge of a public official’s incapacity or unexplained absence exceeding **24 hours**, and who is in a position of responsibility—whether as a staff member, advisor, legal counsel, security detail, or family member—must report such status to the official’s legal designee, constitutional successor, or relevant oversight authority.
-
-Failure to report, when action is taken in the official’s name during the period of incapacity, shall constitute **presumptive evidence of concealment** under subsection (b).
+- There is specific evidence of concealment or unauthorized governance;
+- A protective order is issued to prevent public disclosure of unrelated private material;
+- Oversight authorities act within their jurisdiction and in good faith.
 
 ---
 
-## **Section 4. Aggravated Circumstances and Personal Gain**
+## **Title III: Procedures for Investigation**
 
-If the unauthorized exercise of authority or concealment results in **personal, financial, political, or organizational gain**, or is used to obstruct justice, suppress investigations, or alter policy outcomes:
+### Section 301. Authorized Investigative Bodies  
+Investigations may be initiated by a Congressional committee, Inspector General, independent commission, or other **Investigative Body** with statutory authority.
 
-* **Maximum penalty** by 10 years imprisonment, 
+### Section 302. Standard for Initiating Investigations  
+Investigations may be initiated upon credible allegations or evidence suggesting a **Public Official** is functionally unavailable or incapacitated and that official actions are being carried out in their name.
 
-* **Forfeiture** of any gains obtained, 
+### Section 303. Scope and Safeguards  
+Investigations shall be narrowly tailored to assess capacity, legality of delegation, or concealment. Communications covered under privilege may only be reviewed if a judicial order is obtained.
 
-* **Permanent disqualification** from public office, and 
+### Section 304. Confidentiality and Notification  
+Investigations shall protect privacy by limiting disclosures to what is legally required. Officials and their designated representatives must be informed unless doing so would jeopardize the integrity of the inquiry.
 
-* **Mandatory restitution** to the United States or harmed parties.
-
----
-
-## **Section 5. Penalties**
-
-**(a)** Any individual convicted under this Act shall be subject to:
-
-* Imprisonment for up to **10 years** when the official is appointed; **15 years** if the official is elected; or **20 years** if the official is the president or vice president of the United States.
-
-* A fine of up to **$500,000** or **twice the amount of gain derived from the offense**, whichever is greater;
-
-* **Forfeiture** of any compensation, benefits, or assets obtained through the exercise of unauthorized authority; and
-
-* Potential **disqualification from holding public office** under federal or state law for a period of **not less than 10 years**.
-
-**(b)** Where the unauthorized exercise of public authority results in **personal gain**, including but not limited to:
-
-* Financial enrichment;
-
-* Preferential appointments or contract awards;
-
-* Suppression of damaging information;
-
-* Political advancement or control over governmental processes;
-
-then the offense shall be classified as **aggravated**, and the maximum penalty shall be increased to:
-
-* **15 years** imprisonment for appointed officials, **20 years** if the official is elected, or **Life imprisonment** without parole if the official is the president or vice president of the United States.
-
-* Permanent **disqualification from public office**, and
-
-* Mandatory **restitution** to the U.S. government or other harmed parties.
+### Section 305. Referral of Criminal Conduct  
+If evidence indicates criminal conduct, the matter shall be referred to the Department of Justice or appropriate law enforcement authority.
 
 ---
 
-## **Section 6. Pattern of Conduct – Racketeering Implications**
+## **Title IV: Enforcement of Investigative Authority**
 
-Any violation of this Act, when committed:
+### Section 401. Subpoena and Evidence Authority  
+Investigative bodies may issue subpoenas for testimony, documents, and records relevant to alleged violations under this Act.
 
-* In coordination with two or more individuals,  
-* As part of a pattern of concealment, manipulation, or obstruction,  
-* In conjunction with acts such as document forgery, fraud, or intimidation,  
-* or committed within a broader scheme to control or conceal governance
+### Section 402. Judicial Enforcement  
+Courts shall expedite review of enforcement motions under this Act and may issue contempt orders or protective mandates as necessary.
+
+### Section 403. Emergency Preservation Orders  
+Investigative bodies may seek emergency judicial orders to preserve evidence in danger of destruction or concealment.
+
+### Section 404. Whistleblower Protections  
+Whistleblowers reporting violations of this Act shall receive protections under the Whistleblower Protection Enhancement Act of 2012, including anonymous reporting and safeguards against retaliation.
+
+### Section 405. Oversight and Reporting  
+Annual reports on investigations and enforcement actions shall be made available to relevant oversight committees of Congress.
+
+---
+
+## **Title V: Offenses and Penalties**
+
+### Section 501. Unauthorized Exercise of Authority  
+Knowingly exercising the powers or duties of a **Public Official** without lawful delegation, consent, or during known incapacity or **Functional Unavailability**, constitutes an offense.
+
+### Section 502. Concealment of Incapacity  
+Knowingly and willfully concealing the incapacity or functional unavailability of a **Public Official** from oversight authorities is unlawful.
+
+### Section 503. Mandatory Reporting  
+Any individual in a position of responsibility with direct knowledge of a public official's unexplained absence or incapacity exceeding **24 hours** must report to the legal designee, successor, or oversight body.
+
+Failure to report when official acts are performed in the official's name shall constitute presumptive evidence of concealment.
+
+### Section 504. Tiered Penalties for Offenses  
+
+Penalties shall be determined based on the **Tier** of the affected Public Official:
+
+- **Tier 1 Officials** (e.g., President, Vice President, Cabinet Secretaries, Supreme Court Justices):  
+  - Up to **20 years** imprisonment for standard offenses;  
+  - **Life imprisonment without parole** for aggravated offenses involving national security, suppression of justice, or political manipulation;  
+  - **Permanent disqualification** from any public office;  
+  - **Mandatory restitution** to the United States or harmed parties.
+
+- **Tier 2 Officials** (e.g., Members of Congress, Federal Judges, SES roles):  
+  - Up to **15 years** imprisonment;  
+  - **20 years** for aggravated offenses;  
+  - **Disqualification** from federal office for no less than **15 years**;  
+  - **Restitution** as appropriate.
+
+- **Tier 3 Officials** (e.g., other Senate-confirmed or senior officials with statutory authority):  
+  - Up to **10 years** imprisonment;  
+  - **15 years** for aggravated offenses;  
+  - **Disqualification** from office for no less than **10 years**.
+
+Fines of up to **$500,000** or **twice the amount of gain** derived from the offense may also be imposed at all tiers.
+
+### Section 505. Obstruction, False Claims, and Retaliation  
+Knowingly submitting false claims under this Act is punishable by up to **5 years** imprisonment and civil liability. Retaliation against whistleblowers is strictly prohibited.
+
+---
+
+## **Title VI: Racketeering and Conspiracy Provisions**
+
+### Section 601. Pattern of Conduct  
+Any violation of this Act committed:
+
+- In coordination with two or more individuals,
+- As part of a scheme to conceal governance,
+- In conjunction with forgery, intimidation, or fraud,
 
 shall constitute a **predicate act** under the Racketeer Influenced and Corrupt Organizations Act (18 U.S.C. § 1961).
 
----
-
-## **Section 7. Whistleblower Protections**
-
-**(a)** Any employee or agent of the United States who, in good faith, reports suspected violations of this Act shall be entitled to whistleblower protections as provided in the Whistleblower Protection Enhancement Act of 2012\.
-
-**(b)** Reports may be made anonymously through designated channels established by the Office of Special Counsel or the relevant Inspector General.
-
-**(c)** Accountability for False Claims
-
-Any individual who knowingly makes a materially false report or statement regarding the alleged incapacity or unauthorized exercise of public authority under this Act, with the intent to deceive, defame, retaliate, or provoke a wrongful investigation, shall be subject to prosecution under:
-
-18 U.S.C. § 1001 (False Statements to Federal Officials),
-
-18 U.S.C. § 1519 (False Records or Obstruction), and
-
-Any other applicable statutes involving perjury or abuse of process.
-
-Conviction may result in fines, imprisonment for up to 5 years, and liability for civil damages to harmed parties.
+The enterprise may be prosecuted as a corrupt organization.
 
 ---
 
-## **Section 8. Presumptions and Burden of Proof**
+## **Title VII: Legal and Administrative Provisions**
 
-**(a)** Where evidence shows that a public action was taken under the name of an official during a period in which they were:
+### Section 701. Presumptions and Burden of Proof  
+Where evidence shows that material official action was taken during known incapacity or unavailability, a rebuttable presumption of unauthorized exercise shall arise, unless valid documentation exists.
 
-* known to be medically incapacitated,
+A good faith belief in delegation is an affirmative defense only if supported by written or witnessed authorization.
 
-* physically unreachable without explanation, or
+### Section 702. Statute of Limitations  
+Actions may be prosecuted within **15 years** of commission or **7 years** of discovery, whichever is later. Where concealment is proven, the period is tolled.
 
-* undergoing unreported surgery, sedation, or mental evaluation,
+### Section 703. Severability  
+If any section is found invalid, the remainder of the Act shall remain in effect.
 
-a **rebuttable presumption** shall arise that such action was unauthorized, unless valid delegation is documented.
+### Section 704. Effective Date  
+This Act shall take effect **180 days** after enactment.
 
-**(b)** A good faith belief in delegated authority shall be an affirmative defense only where the defendant can show **documented or witnessed authorization**.
-
----
-
-## **Section 9. Statute of Limitations**
-
-**(a)** A prosecution under this Act may be commenced at any time **within 15 years** of the commission of the offense, or **within 7 years** of its discovery by any federal investigative or prosecutorial authority, whichever is later.
-
-**(b)** Where the offense involved **active concealment, obstruction, or falsification of records**, the limitations period shall be tolled for the duration of such concealment.
+### Section 705. Rulemaking Authority  
+Relevant agencies may issue rules and procedures to implement this Act.
 
 ---
 
-## **Section 10. Severability**
+## **Appendix A: Definitions**
 
-If any part of this Act is found unconstitutional or unenforceable, the remainder shall remain in effect.
+**(1)** *Authorized Delegate* means a person who has been formally and lawfully delegated the power to act on behalf of a public official through written authorization, statute, regulation, or constitutional provision, with clear specification of the scope and duration of such authority.
+
+**(2)** *Compelling Public Interest* means a demonstrable and urgent need to access privileged communications or documents that is supported by specific evidence and directly relates to: (a) investigating potential violations of this Act; (b) ensuring lawful succession or delegation of authority; or (c) protecting national security or public safety when normal oversight mechanisms are compromised.
+
+**(3)** *Concealment of Incapacity* means knowingly and willfully failing to disclose material facts concerning the incapacity or functional unavailability of a public official to constitutionally or statutorily designated oversight authorities, with the intent to preserve the appearance of lawful authority and prevent proper succession or delegation procedures.
+
+**(4)** *Emergency Circumstances* means situations requiring immediate official action to prevent imminent harm to national security, public safety, or the lawful operation of government, where: (a) delay would cause substantial harm; (b) the official is temporarily unavailable through no fault of staff; and (c) the action taken is the minimum necessary to address the emergency.
+
+**(5)** *Functional Unavailability* means circumstances in which a public official is unable to personally make, review, or communicate material official decisions for a period exceeding normal business practices, excluding routine scheduling conflicts, travel, or brief medical appointments.
+
+**(6)** *Incapacity* means a physical, psychological, or cognitive condition that substantially impairs a public official's ability to understand the nature and consequences of official decisions or to communicate such decisions coherently, lasting or likely to last more than 72 consecutive hours.
+
+**(7)** *Investigative Body* means a congressional committee, subcommittee, independent commission, inspector general, or lawfully constituted judicial or administrative body with statutory authority to investigate allegations of incapacity, unauthorized governance, or violations of this Act.
+
+**(8)** *Material Official Action* means, by tier:
+   - **Tier 1 Officials**: Any policy decision, legal document execution, official communication, or exercise of constitutional powers;
+   - **Tier 2 Officials**: Legislative voting, judicial rulings, committee actions, bill sponsorship, major policy directives, or binding commitments to other officials or foreign entities;
+   - **Tier 3 Officials**: Decisions requiring personal exercise of statutory authority that significantly exceed routine administrative functions.
+
+**(9)** *Privilege* includes executive privilege, deliberative process privilege, attorney-client privilege, and other legally recognized protections, but does not extend to communications or documents that evidence violations of this Act or attempts to conceal official incapacity from lawful oversight.
+
+**(10)** *Public Official* means:
+   - **Tier 1**: President, Vice President, Cabinet Secretaries, Supreme Court Justices;
+   - **Tier 2**: Members of Congress, Federal Judges, Senior Executive Service positions;
+   - **Tier 3**: Other Senate-confirmed appointees and senior officials with independent statutory authority.
+
+**(11)** *Routine Administrative Action* means ministerial tasks that do not require personal official judgment, including scheduling, correspondence processing, information gathering, meeting coordination, and standard procedural functions typically performed by staff under normal circumstances.
+
+**(12)** *Unauthorized Exercise of Public Authority* means knowingly and willfully performing material official actions under the name, office, or authority of a public official while aware of that official's incapacity or functional unavailability, without: (a) lawful written delegation; (b) explicit consent of the official (if capable of giving informed consent); (c) proper disclosure to designated oversight authorities; or (d) qualifying emergency circumstances as defined herein.
 
 ---
-
-## **🔚 Notes for Interpretation**
-
-This draft statute:
-
-* **Targets real legal gaps** exposed by temporary or concealed incapacitation (e.g., President Wilson, Sec. Austin).
-
-* Preserves **constitutional boundaries** (e.g., avoids proactive surveillance of officials).
-
-* Invites **integration into RICO** for networks or repeat abuses.
-
-* Encourages **safe reporting** without making every misstep criminal.
-
-### **Proposed Addition to 18 U.S.C. § 1961(1) – Definitions**
-
-### **Section 5. Racketeering and Conspiracy Provisions (Expanded)**
-
-(a) Any offense under this Act that is committed:
-
-* in concert with two or more individuals;
-
-* as part of an ongoing scheme to retain, exercise, or conceal unlawful authority; or
-
-* alongside acts such as document forgery, unlawful surveillance, obstruction of justice, or violence;
-
-shall constitute a **predicate act** for the purposes of prosecution under 18 U.S.C. § 1961 et seq. (RICO).
-
-(b) In cases where the unauthorized exercise of public authority is part of a coordinated conspiracy, the entire enterprise may be prosecuted as a corrupt organization.
 
