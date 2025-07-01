@@ -32,7 +32,35 @@ To preserve democratic governance and constitutional accountability by criminali
 
 ### Section 103. Definitions  
 
-See Appendix A.
+**(1)** *Authorized Delegate* means a person who has been formally and lawfully delegated the power to act on behalf of a public official through written authorization, statute, regulation, or constitutional provision, with clear specification of the scope and duration of such authority.
+
+**(2)** *Compelling Public Interest* means a demonstrable and urgent need to access privileged communications or documents that is supported by specific evidence and directly relates to: (a) investigating potential violations of this Act; (b) ensuring lawful succession or delegation of authority; or (c) protecting national security or public safety when normal oversight mechanisms are compromised.
+
+**(3)** *Concealment of Incapacity* means knowingly and willfully failing to disclose material facts concerning the incapacity or functional unavailability of a public official to constitutionally or statutorily designated oversight authorities, with the intent to preserve the appearance of lawful authority and prevent proper succession or delegation procedures.
+
+**(4)** *Emergency Circumstances* means situations requiring immediate official action to prevent imminent harm to national security, public safety, or the lawful operation of government, where: (a) delay would cause substantial harm; (b) the official is temporarily unavailable through no fault of staff; and (c) the action taken is the minimum necessary to address the emergency.
+
+**(5)** *Functional Unavailability* means circumstances in which a public official is unable to personally make, review, or communicate material official decisions for a period exceeding normal business practices, excluding routine scheduling conflicts, travel, or brief medical appointments.
+
+**(6)** *Incapacity* means a physical, psychological, or cognitive condition that substantially impairs a public official's ability to understand the nature and consequences of official decisions or to communicate such decisions coherently, lasting or likely to last more than 72 consecutive hours.
+
+**(7)** *Investigative Body* means a congressional committee, subcommittee, independent commission, inspector general, or lawfully constituted judicial or administrative body with statutory authority to investigate allegations of incapacity, unauthorized governance, or violations of this Act.
+
+**(8)** *Material Official Action* means, by tier:
+   - **Tier 1 Officials**: Any policy decision, legal document execution, official communication, or exercise of constitutional powers;
+   - **Tier 2 Officials**: Legislative voting, judicial rulings, committee actions, bill sponsorship, major policy directives, or binding commitments to other officials or foreign entities;
+   - **Tier 3 Officials**: Decisions requiring personal exercise of statutory authority that significantly exceed routine administrative functions.
+
+**(9)** *Privilege* includes executive privilege, deliberative process privilege, attorney-client privilege, and other legally recognized protections, but does not extend to communications or documents that evidence violations of this Act or attempts to conceal official incapacity from lawful oversight.
+
+**(10)** *Public Official* means:
+   - **Tier 1**: President, Vice President, Cabinet Secretaries, Supreme Court Justices;
+   - **Tier 2**: Members of Congress, Federal Judges, Senior Executive Service positions;
+   - **Tier 3**: Other Senate-confirmed appointees and senior officials with independent statutory authority.
+
+**(11)** *Routine Administrative Action* means ministerial tasks that do not require personal official judgment, including scheduling, correspondence processing, information gathering, meeting coordination, and standard procedural functions typically performed by staff under normal circumstances.
+
+**(12)** *Unauthorized Exercise of Public Authority* means knowingly and willfully performing material official actions under the name, office, or authority of a public official while aware of that official's incapacity or functional unavailability, without: (a) lawful written delegation; (b) explicit consent of the official (if capable of giving informed consent); (c) proper disclosure to designated oversight authorities; or (d) qualifying emergency circumstances as defined herein.
 
 ---
 
@@ -108,7 +136,7 @@ Penalties shall be determined based on the **Tier** of the affected Public Offic
   - **Permanent disqualification** from any public office;  
   - **Mandatory restitution** to the United States or harmed parties.
 
-- **Tier 2 Officials** (e.g., Members of Congress, Federal Judges, SES roles):  
+- **Tier 2 Officials** (e.g., Members of Congress, Federal Judges, Senior Executive Service (SES) roles):  
   - Up to **15 years** imprisonment;  
   - **20 years** for aggravated offenses;  
   - **Disqualification** from federal office for no less than **15 years**;  
@@ -159,40 +187,6 @@ This Act shall take effect **180 days** after enactment.
 
 ### Section 705. Rulemaking Authority  
 Relevant agencies may issue rules and procedures to implement this Act.
-
----
-
-## **Appendix A: Definitions**
-
-**(1)** *Authorized Delegate* means a person who has been formally and lawfully delegated the power to act on behalf of a public official through written authorization, statute, regulation, or constitutional provision, with clear specification of the scope and duration of such authority.
-
-**(2)** *Compelling Public Interest* means a demonstrable and urgent need to access privileged communications or documents that is supported by specific evidence and directly relates to: (a) investigating potential violations of this Act; (b) ensuring lawful succession or delegation of authority; or (c) protecting national security or public safety when normal oversight mechanisms are compromised.
-
-**(3)** *Concealment of Incapacity* means knowingly and willfully failing to disclose material facts concerning the incapacity or functional unavailability of a public official to constitutionally or statutorily designated oversight authorities, with the intent to preserve the appearance of lawful authority and prevent proper succession or delegation procedures.
-
-**(4)** *Emergency Circumstances* means situations requiring immediate official action to prevent imminent harm to national security, public safety, or the lawful operation of government, where: (a) delay would cause substantial harm; (b) the official is temporarily unavailable through no fault of staff; and (c) the action taken is the minimum necessary to address the emergency.
-
-**(5)** *Functional Unavailability* means circumstances in which a public official is unable to personally make, review, or communicate material official decisions for a period exceeding normal business practices, excluding routine scheduling conflicts, travel, or brief medical appointments.
-
-**(6)** *Incapacity* means a physical, psychological, or cognitive condition that substantially impairs a public official's ability to understand the nature and consequences of official decisions or to communicate such decisions coherently, lasting or likely to last more than 72 consecutive hours.
-
-**(7)** *Investigative Body* means a congressional committee, subcommittee, independent commission, inspector general, or lawfully constituted judicial or administrative body with statutory authority to investigate allegations of incapacity, unauthorized governance, or violations of this Act.
-
-**(8)** *Material Official Action* means, by tier:
-   - **Tier 1 Officials**: Any policy decision, legal document execution, official communication, or exercise of constitutional powers;
-   - **Tier 2 Officials**: Legislative voting, judicial rulings, committee actions, bill sponsorship, major policy directives, or binding commitments to other officials or foreign entities;
-   - **Tier 3 Officials**: Decisions requiring personal exercise of statutory authority that significantly exceed routine administrative functions.
-
-**(9)** *Privilege* includes executive privilege, deliberative process privilege, attorney-client privilege, and other legally recognized protections, but does not extend to communications or documents that evidence violations of this Act or attempts to conceal official incapacity from lawful oversight.
-
-**(10)** *Public Official* means:
-   - **Tier 1**: President, Vice President, Cabinet Secretaries, Supreme Court Justices;
-   - **Tier 2**: Members of Congress, Federal Judges, Senior Executive Service positions;
-   - **Tier 3**: Other Senate-confirmed appointees and senior officials with independent statutory authority.
-
-**(11)** *Routine Administrative Action* means ministerial tasks that do not require personal official judgment, including scheduling, correspondence processing, information gathering, meeting coordination, and standard procedural functions typically performed by staff under normal circumstances.
-
-**(12)** *Unauthorized Exercise of Public Authority* means knowingly and willfully performing material official actions under the name, office, or authority of a public official while aware of that official's incapacity or functional unavailability, without: (a) lawful written delegation; (b) explicit consent of the official (if capable of giving informed consent); (c) proper disclosure to designated oversight authorities; or (d) qualifying emergency circumstances as defined herein.
 
 ---
 
