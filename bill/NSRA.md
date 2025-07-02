@@ -149,6 +149,7 @@ Penalties shall be determined based on the **Tier** of the affected Public Offic
 
 Fines of up to **$500,000** or **twice the amount of gain** derived from the offense may also be imposed at all tiers.
 
+
 ### Section 505. Obstruction, False Claims, and Retaliation  
 Knowingly submitting false claims under this Act is punishable by up to **5 years** imprisonment and civil liability. Retaliation against whistleblowers is strictly prohibited.
 
@@ -189,4 +190,90 @@ This Act shall take effect **180 days** after enactment.
 Relevant agencies may issue rules and procedures to implement this Act.
 
 ---
+## **Title VIII: Validity and Review of Official Acts During Incapacity**
+
+### Section 801. Invalidity of Unauthorized Acts
+
+1. **Definition**: An "unauthorized act" means any material official action, directive, or execution of legal authority carried out in the name of a public official during a period of incapacity or functional unavailability, without their informed consent or valid prior delegation.
+
+2. **Legal Effect**: Any unauthorized act is hereby declared void and without legal effect.
+
+3. **Standard of Proof**: An act shall be deemed unauthorized only upon clear and convincing evidence that:
+
+   * The official was incapacitated or functionally unavailable at the time of the act;
+   * The act was undertaken without valid delegation or informed consent; and
+   * The act was not later knowingly ratified by the official upon regaining capacity.
+
+4. **Rebuttable Presumption**: There shall be a rebuttable presumption that an official act bearing the signature or formal authentication of a public official was authorized, unless specific evidence to the contrary is presented.
+
+5. **Safe Harbor Clause**: No individual shall be criminally liable under this section if they acted in good faith reliance on standing orders, formal delegations, or emergency protocols, unless it is proven that they knew or should have known the official was incapable of oversight.
+
+---
+
+### Section 802. Review and Reversal of Contested Acts
+
+1. **Contested Act**: Any material official act suspected to be unauthorized due to possible incapacity may be designated a "Contested Act" by any of the following:
+
+   * A majority vote of the Cabinet (for Tier 1 officials);
+   * A bipartisan Congressional resolution;
+   * A formally convened independent commission under Title III.
+
+2. **Review Procedure**:
+
+   * A formal review shall occur within 30 days of designation;
+   * The reviewing body may recommend that the act be:
+
+     * a) Ratified,
+     * b) Reversed,
+     * c) Referred for criminal investigation.
+
+3. **Emergency Suspension**:
+
+   * If the act poses immediate harm to public safety, national security, or the rule of law, it may be provisionally suspended pending review.
+
+4. **Final Determination**:
+
+   * A reversal shall only occur if the reviewing body determines by clear and convincing evidence that the act was unauthorized and substantially harmful.
+
+---
+
+### Section 803. Exception for Constitutionally Entrenched Powers
+
+1. **High Protection Clause**: Material official acts involving constitutional powers—specifically including but not limited to presidential pardons, vetoes, judicial nominations, and military orders—shall not be reversed or voided except upon clear and convincing evidence that:
+
+   * The official was incapacitated at the time of the act;
+   * The act was executed without valid delegation or informed consent.
+
+2. **Presumption of Validity**: In cases of ambiguity or insufficient evidence, such acts shall stand.
+
+3. **Judicial Review**: Courts may assess the legal scope or effects of such acts but may not invalidate them absent the standards above.
+
+4. **Non-Interference Clause**: Nothing in this Act shall be construed to authorize legislative or administrative rollback of constitutionally mandated powers outside the scope of the criteria specified in this section.
+
+---
+
+### Section 804. Criminal Liability for Unauthorized Acts
+
+1. **Individual Acts**: Each unauthorized material official act may constitute a separate offense under Section 501, unless otherwise deemed part of a single course of conduct under Title VI.
+
+2. **Mitigating Factors**: Courts shall consider whether the individual:
+
+   * Acted under mistaken but reasonable belief of authority;
+   * Attempted to report the incapacity;
+   * Was under coercion or misled by others.
+
+3. **Good Faith Defense**: This section does not apply to individuals who can show good faith reliance on lawful delegation or emergency necessity.
+
+---
+
+### Section 805. Integration with Penalties
+
+Title V, Section 504 is hereby expanded to incorporate violations of Title VIII. Penalties for unauthorized acts shall be applied according to the tier of the official affected, as follows:
+
+* **Tier 1**: Up to 20 years imprisonment per unauthorized act; life imprisonment for systematic abuse.
+* **Tier 2**: Up to 15 years per act; enhanced penalties for coordination.
+* **Tier 3**: Up to 10 years per act; 15 years for egregious misconduct.
+
+Fines, disqualifications, and restitution remain available as defined in Section 504.
+
 
