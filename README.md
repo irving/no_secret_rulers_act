@@ -22,6 +22,8 @@ This repository contains the text of the proposed legislation as well as support
 
 - [press kit](https://github.com/irving/no_secret_rulers_act/tree/main/press_kit)
   Draft backgrounder, possible press releases, etc. 
+  
+- [FAQ](https://github.com/irving/no_secret_rulers_act/tree/main/FAQ.md)
 
 - milestones *(TBD)*  
   Will include a timeline of progress, legislative sponsors, endorsements, and public engagement goals.
