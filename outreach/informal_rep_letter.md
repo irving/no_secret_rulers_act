@@ -8,7 +8,7 @@
 
 I'm writing to ask you to [introduce / support] the **No Secret Rulers Act**.
 
-It's a simple idea: the person we elect should be the one doing the job. If they can't—because they're sick, missing, or otherwise not able to serve—we should know about it. And nobody who wasn't elected should be quietly taking over without the public's knowledge.
+It's a simple idea: the person we elect should be the one doing the job. If they can't - because they're sick, missing, or otherwise not able to serve - we should know about it. And nobody who wasn't elected should be quietly taking over without the public's knowledge.
 
 This has happened before in U.S. history, and it's not a Democrat or Republican thing - it's just wrong. The NSRA would make sure there's a clear, legal way to handle it, with honest reporting, proper transfers of power, and consequences for anyone who tries to hide what's going on.
 

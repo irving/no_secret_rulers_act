@@ -31,7 +31,7 @@ In this kit, you'll find:
 2. **Informal Version** - Warm and relatable, ideal for grassroots outreach.
 3. **Short Version** - Short and direct, perfect for postcards or online contact forms.
 
-**Step 3 – Personalize your message**
+**Step 3  -  Personalize your message**
 
 * Add your name, address, and city.
 * Select the correct request: *introduce*, *co-sponsor*, or *support* the NSRA.
@@ -47,7 +47,7 @@ In this kit, you'll find:
 
 ## **Tips for Maximum Impact**
 
-* Keep it polite, even if you're frustrated—staff are more likely to pass it along.
+* Keep it polite, even if you're frustrated - staff are more likely to pass it along.
 * Mention you're a constituent in the **first sentence**.
 * Follow up in 2-3 weeks if you haven't received a reply.
 * Share the NSRA link on social media to encourage others to contact their reps.
