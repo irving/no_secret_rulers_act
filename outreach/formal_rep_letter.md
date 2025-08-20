@@ -13,7 +13,7 @@ Dear [Representative/Senator] [Last Name],
 
 I am writing as a constituent to urge you to [introduce / co-sponsor / publicly support] the **No Secret Rulers Act (NSRA)**.
 
-The NSRA is a common-sense safeguard to ensure that elected and appointed officials—especially those in the executive branch—actually perform the duties of their office, and that the public is informed when they are unable to do so. This is not a partisan issue. History offers multiple examples, from President Woodrow Wilson’s hidden incapacity after his stroke to recent concerns about leaders in both parties, where power was exercised by unelected individuals without transparency or accountability.
+The NSRA is a common-sense safeguard to ensure that elected and appointed officials - especially those in the executive branch - actually perform the duties of their office, and that the public is informed when they are unable to do so. This is not a partisan issue. History offers multiple examples, from President Woodrow Wilson's hidden incapacity after his stroke to recent concerns about the presidency, where power may have been exercised by unelected individuals without transparency or accountability.
 
 The core principle is simple:
 
@@ -24,7 +24,7 @@ The NSRA would:
 
 * Require prompt reporting when an official is incapacitated or missing.
 * Prohibit exercising the powers of an office without legal authority.
-* Establish penalties for concealing incapacity or unlawfully acting in an official’s stead.
+* Establish penalties for concealing incapacity or unlawfully acting in an official's stead.
 * Provide clear procedures for reversing unauthorized actions where appropriate.
 
 Such protections strengthen public trust, deter abuse, and help avoid dangerous power vacuums or unconstitutional rule.
